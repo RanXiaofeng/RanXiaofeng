@@ -1,11 +1,19 @@
 <h1 align="center">👋 嗨，我是小峰</h1>
-<h3 align="center">我是来自一位中国的学生</h3>
+<h3 align="center">欢迎到我的主页</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranxiaofeng&label=Profile%20views&color=0e75b6&style=flat" alt="ranxiaofeng" />
 </p>
 
 <div align="left">
+
+<h3 align="left">关于我：</h3>
+<p align="left">我是来自中国的一名中专学生，正在学习 Golang。我对编程和技术充满热情，喜欢探索新技术和解决实际问题。在业余时间，我也会学习其他编程语言和工具，比如 Python 和 Docker。我相信通过不断学习和实践，能在编程的道路上越走越远。</p>
+
+<h3 align="left">与我联系：</h3>
+<p align="left">
+  📧 邮箱: <a href="mailto:your-email@example.com">xiaofeng@xfhan.cn</a>
+</p>
 
 <h3 align="left">语言和工具：</h3>
 <p align="left">
