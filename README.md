@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=ranxiaofeng&label=Profile%20views&color=0e75b6&style=flat" alt="ranxiaofeng" />
 </p>
 
+<div align="left">
+
 <h3 align="left">语言和工具：</h3>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
@@ -20,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="电子" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -39,10 +41,10 @@
   </a>
 </p>
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranxiaofeng&show_icons=true&locale=en&layout=compact" alt="ranxiaofeng" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranxiaofeng&show_icons=true&locale=en&layout=compact" alt="ranxiaofeng" /></p>
 
-  <p><img src="https://github-readme-stats.vercel.app/api?username=ranxiaofeng&show_icons=true&locale=en" alt="ranxiaofeng" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ranxiaofeng&show_icons=true&locale=en" alt="ranxiaofeng" /></p>
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranxiaofeng&" alt="ranxiaofeng" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranxiaofeng&" alt="ranxiaofeng" /></p>
+
 </div>
