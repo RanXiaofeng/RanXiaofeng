@@ -1,13 +1,8 @@
 <h1 align="center">👋 嗨，我是小峰</h1>
-<h3 align="center">欢迎到我的主页</h3>
+<h3 align="center">我是来自一位中国的学生</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranxiaofeng&label=Profile%20views&color=0e75b6&style=flat" alt="ranxiaofeng" />
-</p>
-
-<h3 align="left">与我联系：</h3>
-<p align="left">
-  <!-- 在这里添加你的联系信息 -->
 </p>
 
 <h3 align="left">语言和工具：</h3>
